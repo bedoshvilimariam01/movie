@@ -1,0 +1,18 @@
+body{
+    background-color:#f4f4f4;
+}
+
+.movie-img{
+    height:400px;
+    object-fit:cover;
+}
+
+.movie-details-img{
+    width:100%;
+    max-height:600px;
+    object-fit:cover;
+}
+
+.card{
+    box-shadow:0 0 10px rgba(0,0,0,0.2);
+}
